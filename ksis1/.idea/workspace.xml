@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06390f76-1c0b-45b5-9aeb-df1458004c08" name="Changes" comment="" />
+    <list default="true" id="06390f76-1c0b-45b5-9aeb-df1458004c08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chat/out/production/chat/ServerSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chat/out/production/chat/ServerSomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,7 @@
       <updated>1677658573897</updated>
       <workItem from="1677658576221" duration="9000" />
       <workItem from="1678120779882" duration="36000" />
+      <workItem from="1679483894109" duration="98000" />
     </task>
     <servers />
   </component>
